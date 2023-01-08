@@ -3,8 +3,8 @@ from setuptools import setup, find_packages
 setup(
     name='sandbox',
     version='0.0.4',
-    description='Commonly base codes.',
-    url='https://github.com/MoonsRainbow/commonly_base.git',
+    description='A collection of commonly used basic codes.',
+    url='https://github.com/MoonsRainbow/sandbox.git',
     author='MoonsRainbow',
     author_email='Moons_Rainbow@kakao.com',
     license='MoonsRainbow',
