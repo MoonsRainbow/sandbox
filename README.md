@@ -74,11 +74,11 @@ The entered information is stored as a mangling instance variable and processed 
 - 저장된 정보는 읽을 수 없으나, 다시 입력하여 설정할 수는 있습니다.  
 Saved information cannot be read, but can be re-entered to set.
 ~~~
-print(example_dbcm.host) # For security reasons, we do not provide any information.
-print(example_dbcm.port) # For security reasons, we do not provide any information.
-print(example_dbcm.user) # For security reasons, we do not provide any information.
-print(example_dbcm.password) # For security reasons, we do not provide any information.
-print(example_dbcm.database) # For security reasons, we do not provide any information.
+print(example_dbcm.host) # Can't provide host information.
+print(example_dbcm.port) # Can't provide port information.
+print(example_dbcm.user) # Can't provide user information.
+print(example_dbcm.password) # Can't provide password information.
+print(example_dbcm.database) # Can't provide database information.
 
 example_dbcm.host = 'another_host'
 example_dbcm.port = 'another_port'
