@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='moons_rainbow',
+    name='sandbox',
     version='0.0.2',
     description='Commonly base codes.',
     url='https://github.com/MoonsRainbow/commonly_base.git',
